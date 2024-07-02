@@ -116,7 +116,7 @@ Our Services
 </a>
 </div>
 <div class="serbox">
-<a href="parties.php">
+<a href="party.php">
 <img src="Party.jpeg" class="img-fluid">
 <h4> PARTIES</h4>
 </a>
